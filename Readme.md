@@ -1,15 +1,14 @@
 3D Printer Comparison
 =====================
 
-  Here is a summary of the current generation of 3D printers, sorted by price.
-  Other printers considered included UP!, SUMPOD, RepRap Huxley...
+  Here is a summary of the current generation of 3D printers, sorted by price. Unless otherwise stated, each machine can be assembled in a weekend, has a resolution of 100 microns, a build speed on 80mm/s, can use ABS or PLA, and ships in 4-6 weeks and is open source.
 
-  For largest build volume and fastest speed, get the Ultimaker ($1599) or build the rostock $(599)
-  For highest resolution, best quality and complexity, buy the Form1 ($2699)
-  For quickest support response, buy the Replicator2 ($2599)
-  For lowest price, get the PrintrBot+ ($714)
+  * For largest build volume and fastest speed, get the Ultimaker ($1599) or build the rostock $(599)
+  * For highest resolution, best quality and complexity, buy the Form1 ($2699)
+  * For quickest support response, buy the Replicator2 ($2599)
+  * For lowest price, get the PrintrBot+ ($714) or build a Rostock
 
-  Unless otherwise stated, each machine can be assembled in a weekend, has a resolution of 100 microns, a build speed on 80mm/s, can use ABS or PLA, and ships in 4-6 weeks and is open source.
+  Other printers considered but not included are UP!, SUMPOD, RepRap Huxley.
 
 Solidoodle [$599]()
 ===================
@@ -17,13 +16,13 @@ Solidoodle [$599]()
   * 3.6L build volume
   * Ships in December
 
-RoStrock [$599]()
-=================
+Rostock [$599]()
+================
 
   * 16L build volume
   * 800mm/s build speed
 
-  Delta printer, that is 50% made of 3D-printable parts
+  Delta printer, that is 50% made of 3D-printable parts. Fastest printer ever, very simple parts.
 
 
 PrintrBot+ [$714](http://printrbot.com/wp-content/uploads/2012/03/IMG_1089.jpg)
