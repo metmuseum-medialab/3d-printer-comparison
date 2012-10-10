@@ -1,7 +1,7 @@
 3D Printer Comparison
 =====================
 
-  Here is a summary of the current generation of 3D printers, sorted by price. Unless otherwise stated, each machine can be assembled in a weekend, has a resolution of 100 microns, a build speed on 80mm/s, can use ABS or PLA, and ships in 4-6 weeks and is open source.
+  Here is a summary of the current generation of 3D printers, sorted by price. Unless otherwise stated, each machine is a kit that can be assembled in a weekend, has a resolution of 100 microns, a build speed of 80mm/s, can use ABS or PLA, and ships in 4-6 weeks and is open source.
 
   * For largest build volume and fastest speed, get the Ultimaker ($1599) or build the rostock $(599)
   * For highest resolution, best quality and complexity, buy the Form1 ($2699)
@@ -55,6 +55,7 @@ Makerbot Replicator 2 [$2599]()
   * 1 year limited parts replacement
   * pre-assembled
   * 6.8L build volume
+  * PLA only
 
   Makerbot's got brand recognition, and they are from Brooklyn. The Replicator is partially closed source, so repairs are more difficult and will be obsolete more quickly. Lots of people have experience with the Replicator 1 however. Custom software.
 
@@ -75,7 +76,7 @@ Form1 [$2699]()
   * 2.6L build volume
   * Ships in April
 
-  No support material needed, since it does not use FDM. Best quality prints by far of any printer I have ever touched. Layering non-existant and complex internal geometries are easy. Custom software.
+  No support material needed, since it does not use FDM. Best quality prints by far of any printer I have ever touched. Layering non-existant and complex internal geometries are easy. Closed source for now.
 
 
 3DTouch [$4,434]()
@@ -87,4 +88,4 @@ Form1 [$2699]()
   * 125 micron resolution
   * Supports soluble PLA
 
-  The 3Dtouch supports soluble PLA, so you can have support material that gets disolved cleanly. Three print-heads means more complex objects can be made.
+  The 3Dtouch supports soluble PLA, so you can have support material that gets disolved cleanly. Three print-heads means more complex objects can be made. Closed source.
